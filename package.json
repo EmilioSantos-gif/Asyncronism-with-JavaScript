@@ -7,7 +7,8 @@
     "callback": "node src/index.js",
     "api": "node src/rickandMorty.js",
     "promise": "node src/Promise/index.js",
-    "promise:challenge": "node src/Promise/challenge.js"
+    "promise:challenge": "node src/Promise/challenge.js",
+    "async": "node src/async/index.js"
   },
   "keywords": [
     "callbacks",
